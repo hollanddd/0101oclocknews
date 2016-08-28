@@ -1,6 +1,5 @@
 'user strict'
 var Feed = require('rss-to-json');
-var Rx = require('rx');
 var async = require('async');
 var Markov = require('./markov.js');
 var Twit = require('./twit.js');
